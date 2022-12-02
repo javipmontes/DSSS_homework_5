@@ -8,6 +8,6 @@ setup(name='homework 5',
       url='https://www.python.org/sigs/distutils-sig/',
       install_requires=[
         'numpy',
-        'turtle'
+        'turtles'
     ]
      )
